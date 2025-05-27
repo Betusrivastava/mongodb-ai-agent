@@ -50,7 +50,7 @@ npm install
    - Add your MongoDB connection string:
    ```
    MONGODB_URI=your_connection_string_here,
-   DATABASE_NAME= your_database_name,
+   DB_NAME= your_database_name,
    GEMINI_API_KEY= your_gemini_key,
    PORT = default 3000
    ```
